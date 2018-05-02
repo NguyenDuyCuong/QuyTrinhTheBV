@@ -4673,7 +4673,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Thu ngân",
+					"name": "Tài chính",
 					"ownedElements": [
 						{
 							"_type": "UMLDependency",
